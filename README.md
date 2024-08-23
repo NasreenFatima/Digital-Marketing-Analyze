@@ -2,7 +2,6 @@
 This repository contains an Excel-based digital marketing dashboard designed to visualize key performance indicators (KPIs) across various marketing campaigns. The dashboard provides insights into total spend, advertisements, impressions, and audience engagement metrics segmented by different filters such as months, markets, and languages.
 
 ## Features
-<br>
 
 ## 1. Interactive Filters
 Users can filter the data by months, markets, and languages to analyze specific segments.
